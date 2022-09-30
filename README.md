@@ -13,17 +13,6 @@ Exercício 1 - Faça um programa que faça 5 perguntas para uma pessoa sobre um 
 
 Exercício 2 - Faça um programa que recebe a altura de um triangulo em um número inteiro e imprima-o utilizando asteriscos. Veja o Exemplo:
 
-Entrada: 5
-
-*
-**
-***
-****
-***** 
-
- 
-
- 
 
 Exercício 3 - Uma firma fez uma pesquisa de mercado para saber se as pessoas gostaram ou não de um novo produto lançado no mercado. Para isso forneceu o sexo do entrevistado e sua resposta (S – Sim ou N – Não). Sabe-se que foram entrevistadas dez pessoas. Faça um programa que calcule e mostre: 
 
@@ -50,9 +39,9 @@ Exercício 5 - Faça um programa que simule a urna eletrônica. A tela a ser apr
 
  3. Candidato Neves Rocha  
 
-             4. Nulo 
-
- 5. Branco Entre com o seu voto:  
+ 4. Nulo
+ 
+ 6. Branco Entre com o seu voto:  
 
 O programa deverá ler os votos dos eleitores e, quando for entrado o número 6, apresentar as seguintes informações:  
 
